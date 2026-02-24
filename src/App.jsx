@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import { __interactionsRef } from 'scheduler/tracing';
 
 function App() {
   const [ input, setInput ] = React.useState('')
